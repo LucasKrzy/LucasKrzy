@@ -7,16 +7,9 @@ Me chamo **Lucas Pedroso Krzyzanowski**, tenho 26 anos de idade, roqueiro, cabel
 
 Profissionalmente ingressando no mercado de trabalho na área de programação e desenvolvimento de sistemas. 
 
-
-Em Telecomunicações fui responsável por mais de **85 serviços diferentes**. Dentre eles: *SMS, MMS, Interatividade por SMS com a Plataforma VAS/SDP, Tarifação de Clientes, Caixa Postal, Internet Móvel e muitos outros serviços que a operadora disponibilizava*.
-
-Falando de Educação, fui professor de instituições como: *ETEC Camargo Aranha, ETEC Jorge Street, SENAC, Trainning Education Services e a mais recente Mentorama*. Tendo como matérias: *HTML, CSS, JavaScript, PHP, Projetos, Lógica de Programação, Desenvolvimento Mobile para Android com Java/Kotlin, Data Science e Machine Learning, Desenvolvimento para Desktop com C#, Manutenção de Computadores, Redes, Design de Interfaces, Usabilidade, Experiência do Usuário, Interatividade, Empreendedorismo, Juventude, Direitos Humanos, Sustentabilidade*.
-
-Entusiasta das melhores tecnologias para o **Desenvolvimento Web e Mobile**. E um completo apaixonado pelos poderes que a **Tecnologia e a Educação** tem para mudar a vida das pessoas. Da mesma forma que mudou a minha.
-
 Meu foco principal hoje é o Desenvolvimento de Novos Profissionais de Tecnologia. 
 
-Se quiser me mandar um e-mail para conversarmos... [hey@adrianosilva.dev.br](mailto:hey@adrianosilva.dev.br)
+Se quiser me mandar um e-mail para conversarmos... [lucaskrzy@gmail.com](mailto:lucaskrzy@gmail.com)
 ## Tecnologias, Ferramentas e Linguagens
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> </code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
