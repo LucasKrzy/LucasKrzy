@@ -43,5 +43,8 @@ Se quiser me mandar um e-mail para conversarmos... [lucaskrzy@gmail.com](mailto:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code> </code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/de/a/aa/Heidisql_logo.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code> </code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
 ## Meu Status no Github
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKrzy&layout=compact)](https://github.com/LucasKrzy)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasKrzy&show_icons=true&locale=en" alt="Lucas Pedroso Krzyzanowski" />
 
