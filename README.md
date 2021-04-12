@@ -12,15 +12,15 @@ Profissionalmente trabalhei na área de **suporte técnico** e de **formação d
 
 Atualmente participando do processo Trainee Java pela empresa **Foursys** focando nas seguintes competências:
 
-• JAVA EE: Servlets, JSP, JSF, Facelets, Maven.
-• JAVA SE: Swing, JDBC.
-• Web: Html5, CSS, Typescript, Javascript, Jquery, Richfaces, Primefaces.
-• Arquitetura: Design Patterns, MVC, WebServices, AWB 3.0.
-• ORM: Hibernate, JPA.
-• IDE e FrontEnd: Eclipse, NetBeans, iReport.
-• Servidores de Aplicação: Tomcat.
-• Banco de Dados: SQL Server.
-• Controle de Versão: GIT, SVN.
+- JAVA EE: Servlets, JSP, JSF, Facelets, Maven.
+- JAVA SE: Swing, JDBC.
+- Web: Html5, CSS, Typescript, Javascript, Jquery, Richfaces, Primefaces.
+- Arquitetura: Design Patterns, MVC, WebServices, AWB 3.0.
+- ORM: Hibernate, JPA.
+- IDE e FrontEnd: Eclipse, NetBeans, iReport.
+- Servidores de Aplicação: Tomcat.
+- Banco de Dados: SQL Server.
+- Controle de Versão: GIT, SVN.
 
 Meu objetivo principal hoje é trabalhar na área de programação e adquirir experiências no desenvolvimento de sistemas e tecnologias ágeis. 
 ## Sobre o Lucas!
