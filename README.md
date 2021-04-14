@@ -10,7 +10,7 @@ Academicamente sou formado em **Licenciatura em Computação** pela **Universida
 
 Profissionalmente trabalhei na área de **suporte técnico** e de **formação de professores**, focando na integração de tecnologias no currículo escolar, assim como preparação e edição de vídeo aulas. Estou ingressando no mercado de trabalho na área de programação e **desenvolvimento de sistemas**. 
 
-Atualmente participando do processo Trainee Java pela empresa **Foursys** focando nas seguintes competências:
+Atualmente participando do processo Trainee Java pela empresa [Foursys](https://www.foursys.com.br) focando nas seguintes competências:
 
 - JAVA EE: Servlets, JSP, JSF, Facelets, Maven.
 - JAVA SE: Swing, JDBC.
@@ -23,7 +23,7 @@ Atualmente participando do processo Trainee Java pela empresa **Foursys** focand
 - Controle de Versão: GIT, SVN.
 
 Meu objetivo principal hoje é trabalhar na área de programação e adquirir experiências no desenvolvimento de sistemas e tecnologias ágeis. 
-## Sobre o Lucas!
+## Sobre o Lucas
 
 - 💻 Atualmente trabalho como Trainee Java na [Foursys](https://www.foursys.com.br) 
 - 📚 Estudando *Java* e *SCRUM*
