@@ -1,4 +1,4 @@
-## Bom dia, boa tarde, boa noite! <img src="https://github.com/LucasKrzy/LucasKrzy/blob/main/bigode.gif?raw=true" width="48px">
+## Bom dia, boa tarde, boa noite! <img src="https://github.com/LucasKrzy/LucasKrzy/blob/main/bigode.gif?raw=true" size="10%">
 
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC6ereSIzJmpzzcDB3TNfyRw/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lucas-krzyzanowski-44928b161/) [![followersGit](https://img.shields.io/github/followers/LucasKrzy?style=social)](https://github.com/LucasKrzy) <img src="https://komarev.com/ghpvc/?username=LucasKrzy&label=Profile%20views&color=0e75b6&style=social" alt="Lucas Pedroso Krzyzanowski" />
 
