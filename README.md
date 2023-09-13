@@ -10,21 +10,37 @@ Profissionalmente trabalhei na área de suporte técnico e de formação de prof
 Atualmente atuo como desenvolvedor Java e possuo os seguintes conhecimentos:
 
 • JAVA EE: Servlets, JSP, JSF, Facelets, Maven.
+
 • JAVA SE: Swing, JDBC.
+
 • Mensageria: RabbitMQ, Google PubSub.
+
 • Banco de Dados: SQL Server, MongoDB, Oracle.
+
 • ORM: Hibernate, JPA.
+
 • Controle de Versão: GIT, Gitlab, SVN.
+
 • Docker.
+
 • Web: Html5, CSS, Typescript, Javascript, Jquery, Richfaces, Primefaces.
+
 • Arquitetura: Design Patterns, MVC, WebServices, AWB 3.0.
+
 • Servidores de Aplicação: Tomcat.
+
 • Design Patterns: SOLID e TDD.
+
 • IDE e FrontEnd: Eclipse, NetBeans, Visual Studio Code, iReport, IntelliJ, Postman.
+
 • Testes: Mockito, JUnit, Jmeter.
+
 • Servidores de Aplicação: Yarn, Maven.
+
 • Ferramentas de Gestão e Documentação: (Jira, Confluence), Miro, SharePoint.
+
 • Utilização de Metodologias Ágeis (Scrum).
+
 • Ferramentas de Telemetria: Splunk, DataDog e Graphana.
 
 
